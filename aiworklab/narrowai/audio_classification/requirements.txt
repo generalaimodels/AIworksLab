@@ -1,0 +1,9 @@
+evaluate 
+optuna 
+optuna-integration[pytorch_lightning] 
+audiomentations
+datasets
+transformers
+torch
+rich
+ray[tune]
